@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"biblioteca_go-whatsapp/lib/whatsmeow"
+	"github.com/biblioteca_go-whatsapp/lib/whatsmeow"
 
 	"lib/whatsmeow/store/sqlstore"
 	"lib/whatsmeow/types/events"
